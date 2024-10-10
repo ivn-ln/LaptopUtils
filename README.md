@@ -12,6 +12,7 @@ git clone https://github.com/ivn-ln/LaptopUtils.git
 cd LaptopUtils
 cp brightness.sh ~ -f
 cp touchpad.sh ~ -f
+sh touchpad_install.sh
 crontab cron
 git submodule init
 git submodule update
