@@ -1,0 +1,4 @@
+@reboot sudo sh ~/brightness.sh
+@reboot sh ~/touchpad.sh
+*/5 * * * * sh ~/notify-battery.sh
+

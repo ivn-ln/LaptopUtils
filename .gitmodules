@@ -1,0 +1,3 @@
+[submodule "LowBatteryNotifier"]
+	path = LowBatteryNotifier
+	url = https://github.com/ivn-ln/LowBatteryNotifier.git
