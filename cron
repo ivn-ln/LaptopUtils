@@ -1,3 +1,1 @@
-@reboot sudo sh ~/brightness.sh
 */5 * * * * sh ~/notify-battery.sh
-
