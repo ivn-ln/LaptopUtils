@@ -13,6 +13,8 @@ cd LaptopUtils
 cp brightness.sh ~ -f
 cp touchpad.sh ~ -f
 crontab cron
+git submodule init
+git submodule update
 cd LowBatteryNotifier
 cp ./notify-battery.sh ~ -f
 ```
